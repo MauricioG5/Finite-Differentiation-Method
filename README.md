@@ -9,7 +9,7 @@ This method is used to calculate an interpolation of a function expressed as a g
 
 At the end you will get a second order function wich is the interpolation of the set of points given.
 
-##Execution
+## Execution
 
 To execute this code, you must open the file "interpolacion" on MATLAB, click RUN and write 
 
@@ -17,5 +17,5 @@ To execute this code, you must open the file "interpolacion" on MATLAB, click RU
 2. X points
 3. Y points
 
-##Result
+## Result
 Then you will get a function like: A*X^2 + B*X + C
