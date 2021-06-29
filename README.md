@@ -11,7 +11,8 @@ At the end you will get a second order function wich is the interpolation of the
 
 ## Execution
 
-To execute this code, you must open the file "interpolacion" on MATLAB, click RUN and write 
+
+To execute this code, first you must copy both files on the same folder, then, you must open the file "interpolacion" on MATLAB, click RUN and write:
 
 1. Number of input points
 2. X points
