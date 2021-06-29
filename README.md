@@ -1,4 +1,4 @@
-# Interpolation-by-finite-derivative-differenciation
+# Interpolation by finite derivative differenciation
 
 ## Description
 
